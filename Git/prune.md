@@ -2,7 +2,7 @@
 
 ```
 $ git rmeote prune origin
-``
+```
 
 もしくは
 
